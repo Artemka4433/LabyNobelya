@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fe829fe-b775-4011-b96a-8f568ada1c24" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WFEzgV8g9ddrpY4DJamffZpB8y" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Massive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Massive" />
+      <module name="Artem test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Massive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fe829fe-b775-4011-b96a-8f568ada1c24" name="Default Changelist" comment="" />
+      <created>1578737206066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578737206066</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="873" y="378" key="#Project_Structure" timestamp="1578737249553">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="873" y="378" key="#Project_Structure/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1578737249553" />
+    <state x="736" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580295476209">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="736" y="375" key="#com.intellij.execution.impl.EditConfigurationsDialog/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580295476209" />
+    <state x="1086" y="429" key="#com.intellij.ide.util.MemberChooser" timestamp="1580295340328">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1086" y="429" key="#com.intellij.ide.util.MemberChooser/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580295340328" />
+    <state x="1011" y="502" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580295474371">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1011" y="502" key="#com.intellij.ide.util.TreeClassChooserDialog/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580295474371" />
+    <state width="2517" height="508" key="GridCell.Tab.0.bottom" timestamp="1580296081443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.0.bottom/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081443" />
+    <state width="2517" height="508" key="GridCell.Tab.0.center" timestamp="1580296081443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.0.center/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081443" />
+    <state width="2517" height="508" key="GridCell.Tab.0.left" timestamp="1580296081443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.0.left/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081443" />
+    <state width="2517" height="508" key="GridCell.Tab.0.right" timestamp="1580296081443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.0.right/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081443" />
+    <state width="2517" height="508" key="GridCell.Tab.1.bottom" timestamp="1580296081444">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.bottom/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081444" />
+    <state width="2517" height="508" key="GridCell.Tab.1.center" timestamp="1580296081443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.center/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081443" />
+    <state width="2517" height="508" key="GridCell.Tab.1.left" timestamp="1580296081443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.left/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081443" />
+    <state width="2517" height="508" key="GridCell.Tab.1.right" timestamp="1580296081443">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2517" height="508" key="GridCell.Tab.1.right/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580296081443" />
+    <state x="977" y="544" key="com.intellij.ide.util.TipDialog" timestamp="1579348728409">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="977" y="544" key="com.intellij.ide.util.TipDialog/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1579348728409" />
+    <state x="937" y="341" key="run.anything.popup" timestamp="1580294708330">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="937" y="341" key="run.anything.popup/3840.260.1920.1080/0.0.2560.1440@0.0.2560.1440" timestamp="1580294708330" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Massive.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
